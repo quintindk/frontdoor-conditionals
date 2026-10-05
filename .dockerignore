@@ -1,0 +1,8 @@
+**
+!Dockerfile
+!src/
+src/**
+!src/frontdoor_lab/
+src/frontdoor_lab/**
+!src/frontdoor_lab/__init__.py
+!src/frontdoor_lab/origin.py
